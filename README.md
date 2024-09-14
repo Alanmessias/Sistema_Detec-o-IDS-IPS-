@@ -1,5 +1,5 @@
 # Sistema_Detecção-IDS-IPS
-#Este repositório contém um projeto Python que demonstra os conceitos básicos de um sistema de detecção e prevenção de intrusões (IDS/IPS). O sistema utiliza regras simples para 
+#Este repositório contém um projeto Python que demonstra os principais conceitos de um sistema de detecção e prevenção de intrusões (IDS/IPS). O sistema utiliza regras simples para 
 
 #identificar padrões de tráfego anômalos e gerar alertas.
 
